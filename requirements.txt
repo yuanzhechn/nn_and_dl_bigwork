@@ -1,0 +1,4 @@
+# Install a device-appropriate PyTorch build as shown in README.md.
+numpy==2.0.2
+Pillow==11.3.0
+matplotlib==3.9.4
